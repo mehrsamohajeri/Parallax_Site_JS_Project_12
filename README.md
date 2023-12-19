@@ -4,7 +4,7 @@
 
 
 
-- 🔗 [Demo Project]()
+- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Parallax_Site_JS_Project_12/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
