@@ -10,7 +10,7 @@
 
 - 📆 Created: 2023-12-18
 
-- ✔️ Technologies Used: HTML, CSS, Javascript
+- ✔️ Technologies Used: HTML, CSS, Tailwind, Javascript
 
 - 💥 Role: Front-End
 
