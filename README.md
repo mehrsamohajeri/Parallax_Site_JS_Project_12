@@ -4,7 +4,7 @@
 
 https://github.com/Mehrsa-Mohajeri-Developer/Parallax_Site_JS_Project_12/assets/145048780/4ad728ca-d570-475f-b848-982c8b9d2168
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Parallax_Site_JS_Project_12/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Parallax_Site_JS_Project_12/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
